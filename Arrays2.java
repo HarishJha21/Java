@@ -22,6 +22,7 @@ public class Arrays2 {
         for(int i=0;i<marks.length;i++){
             System.out.println(marks[i]);
         }
+        
         // Quick Quiz: Displaying the Array in Reverse order (For loop)
         System.out.println("Printing using for loop in reverse order");
         for(int i=marks.length -1;i>=0;i--){
