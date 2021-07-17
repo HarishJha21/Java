@@ -22,7 +22,7 @@ public class getter_setter {
         // harish.name = "CodeWithHarry"; --> Throws an error due to private access modifier
         harish.setName("CodeWithHarry");
         System.out.println(harish.getName());
-        harry.setId(233);
+        harish.setId(233);
         System.out.println(harish.getId());
     }
 }
